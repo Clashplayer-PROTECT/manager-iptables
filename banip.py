@@ -6,7 +6,6 @@
 #/\__/ / | | || |   | |___    | | \ \_/ / |_| |
 #\____/\_| |_/\_|   \____/    \_/  \___/ \___/  
 #
-# 			By SAFE YOU
 #			Prevention attack DDoS
 
 import sys
